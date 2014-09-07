@@ -1,12 +1,12 @@
 # About
-This project aims to maintain Dictionaries for CannaIM.
 このプロジェクトは、CannaIM 用辞書の保守を目指しています。
+This project aims to maintain Dictionaries for CannaIM.
 
-## Licence
-### Files in CC0_CannaDic/*
- CC0 / Public domain
+# Licence
+## Files in CC0_CannaDic/*
+CC0 / Public domain
 
-### Files in pubdic/*, including iroha.t
+## Files in pubdic/*, including iroha.t
 pubdic+パッケージの著作権とその利用について
 
 pubdic+プロジェクト
@@ -56,9 +56,9 @@ If there is any difference between the Japanese copyright notice and
 the English one, the Japanese copyright notice takes precedence over
 the English one.
 
-### jinmei.t
- This dictionary originally generated from NAIST Japanese Dictionary
- http://sourceforge.jp/projects/naist-jdic
+## jinmei.t
+This dictionary originally generated from NAIST Japanese Dictionary
+http://sourceforge.jp/projects/naist-jdic
 
 Copyright (c) 2008, Nara Institute of Science and Technology, Japan.
 
@@ -90,7 +90,7 @@ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
 NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-### Other files from Canna 3.7
+## Other files from Canna 3.7
  Copyright 1997 NEC Corporation, Tokyo, Japan.
 
  Permission to use, copy, modify, distribute and sell this software
