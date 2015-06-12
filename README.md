@@ -56,6 +56,24 @@ If there is any difference between the Japanese copyright notice and
 the English one, the Japanese copyright notice takes precedence over
 the English one.
 
+## chimei.t
+License: CC0 / Public domain
+
+Part of Data from geonlp japan city 20140310
+https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_city
+License: CC0
+
+Part of Data from kitamoto amedas 20130918
+https://geonlp.ex.nii.ac.jp/dictionary/kitamoto/amedas
+License: CC0
+
+Part of Data from JAPAN POST
+http://www.post.japanpost.jp/zipcode/download.html
+Date: 20140829
+Licence: public domain
+http://www.post.japanpost.jp/zipcode/dl/readme.html
+
+
 ## jinmei.t
 This dictionary originally generated from NAIST Japanese Dictionary
 http://sourceforge.jp/projects/naist-jdic

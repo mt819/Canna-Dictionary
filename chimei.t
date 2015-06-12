@@ -1,24 +1,5 @@
-# Copyright 1994 NEC Corporation, Tokyo, Japan.
-#
-# Permission to use, copy, modify, distribute and sell this software
-# and its documentation for any purpose is hereby granted without
-# fee, provided that the above copyright notice appear in all copies
-# and that both that copyright notice and this permission notice
-# appear in supporting documentation, and that the name of NEC
-# Corporation not be used in advertising or publicity pertaining to
-# distribution of the software without specific, written prior
-# permission.  NEC Corporation makes no representations about the
-# suitability of this software for any purpose.  It is provided "as
-# is" without express or implied warranty.
-#
-# NEC CORPORATION DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
-# INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN 
-# NO EVENT SHALL NEC CORPORATION BE LIABLE FOR ANY SPECIAL, INDIRECT OR
-# CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF 
-# USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR 
-# OTHER TORTUOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR 
-# PERFORMANCE OF THIS SOFTWARE. 
-#
+# Chimei.t - Placename dictionary for Canna.
+# License: CC0 / Public domain
 #
 # Part of Data from geonlp_japan_city_20140310
 # https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_city
@@ -34,7 +15,6 @@
 # Licence: public domain
 # http://www.post.japanpost.jp/zipcode/dl/readme.html
 #
-# $Id: chimei.t,v 1.2 2003/09/27 06:18:39 aida_s Exp $
 １０せん #CN １０線
 １１じょう #CN １１条 十一条
 １１せん #CN １１線
