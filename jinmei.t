@@ -44,17 +44,17 @@
 # modification, are permitted provided that the following conditions are
 # met:
 #
-#  * Redistributions of source code must retain the above copyright
-#   notice, this list of conditions and the following disclaimer.
+# * Redistributions of source code must retain the above copyright
+# notice, this list of conditions and the following disclaimer.
 #
-#  * Redistributions in binary form must reproduce the above copyright
-#    notice, this list of conditions and the following disclaimer in the
-#    documentation and/or other materials provided with the
-#    distribution.
+# * Redistributions in binary form must reproduce the above copyright
+# notice, this list of conditions and the following disclaimer in the
+# documentation and/or other materials provided with the
+# distribution.
 #
-#  * Neither the name of the UniDic Consortium nor the names of its
-#    contributors may be used to endorse or promote products derived
-#    from this software without specific prior written permission.
+# * Neither the name of the UniDic Consortium nor the names of its
+# contributors may be used to endorse or promote products derived
+# from this software without specific prior written permission.
 #
 # THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 # "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -1164,7 +1164,7 @@
 いくかわ #JNS 生川
 いくこ #JNM*10 郁子 #JNM*8 育子 行子 #JNM*7 いくこ いく子 イク子 以久子 幾久子 幾子 生子 #JNM 伊久子 伊玖子
 いくさか #JNS*7 生坂
-いくさぶろう #JNM*7 幾三郎
+いくさぶろう #JNM*7 幾三郎 #JNM 育三郎
 いくざわ #JNS 生沢 生澤
 いくし #JNM 育史
 いくしげ #JNM 育茂
@@ -2942,9 +2942,10 @@
 えのすけ #JNM*7 恵之助 #JNM エノスケ
 えのもと #JNS*10 榎本
 えのもり #JNS*7 榎森
+えのん #JNM 絵音
 えはた #JNS*8 江幡 #JNS*7 江畑
 えはら #JNS*9 江原
-えば #JNS 江場
+えば #JNS 江場 #JNM エバ
 えばーんでん #JNS*8 エバーンデン
 えばし #JNS 江橋
 えばた #JNS*8 江幡 #JNS*7 荏畑 江端 江畠
@@ -2952,6 +2953,7 @@
 えばな #JNS*7 江花
 えばら #JNS*9 江原 #JNS 頴原 潁原
 えばんす #JNS*9 エバンス
+えばんず #JNS エバンズ
 えひと #JNM 兄人
 えび #JNS*7 海老
 えびー #JNM*8 エビー
@@ -3723,6 +3725,7 @@
 おそごう #JNS*7 獺郷
 おそだ #JNS 襲田
 おその #JNM*7 おその #JNM おソノ
+おそまつ #JNM おそ松
 おそめ #JNM お染
 おぞね #JNS 小曽根
 おた #JNS*10 織田
@@ -5499,6 +5502,7 @@
 かんろくろう #JNM 寛六郎
 が #JNS 賀
 がーくい #JNM ガークイ
+がーてぃやん #JNM ガーティヤン
 がーふぁんくる #JNS*8 ガーファンクル
 がい #JNM 凱 愷 #JNS 盖
 がいか #JNM 凱歌
@@ -6732,6 +6736,7 @@
 くつま #JNM 傴僂
 くつみ #JNS*7 久津見
 くつわだ #JNS*7 轡田
+くとぅるむしゅ #JNS クトゥルムシュ
 くとう #JNS 久藤
 くとみ #JNS 久富
 くどう #JNS*10 工藤 #JNS*7 宮藤 #JNM*8 九童 #JNS クドウ
@@ -7653,7 +7658,7 @@
 こうが #JNS*8 甲賀 #JNS 高河
 こうがく #JNM 広学 #JNS 孝学
 こうがん #JNM 幸侃
-こうき #JNM*9 弘毅 鴻樹 #JNM*8 広輝 #JNM*7 幸希 #JNM 興毅 光基 光貴 光熹 公基 公樹 厚基 幸基 幸樹 康祺 昂輝 洪基 浩己 紘基 高輝 晃樹 滉貴 幸喜
+こうき #JNM*9 弘毅 鴻樹 #JNM*8 広輝 #JNM*7 幸希 #JNM 興毅 光基 光貴 光熹 公基 公樹 厚基 幸基 幸樹 康祺 昂輝 洪基 浩己 紘基 高輝 晃樹 滉貴 幸喜 晃暉
 こうきち #JNM*8 光吉 #JNM*7 亨吉 厚吉 孝吉 幸吉 #JNM 宏吉 浩吉 耕吉 曠吉
 こうきゅう #JNM 洪九
 こうきょう #JNM 光享 光強 紅杏
@@ -9204,6 +9209,7 @@
 さんたーな #JNS*8 サンターナ
 さんたろう #JNM*7 三太郎
 さんだ #JNS*9 三田
+さんだーす #JNS サンダース
 さんだゆう #JNM*7 三太夫
 さんちぇす #JNS*9 サンチェス
 さんちょう #JNM 算長
@@ -10627,6 +10633,7 @@
 じそぷ #JNM ジソプ
 じたろう #JNM 次太郎 治太郎
 じだゆう #JNM 治太夫
+じだん #JNS ジダン
 じちゅう #JNM 時中
 じちん #JNM 時珍
 じっきゅう #JNM 実休
@@ -10649,6 +10656,7 @@
 じて #JNM ジテ
 じとく #JNM 慈篤
 じぬ #JNM ジヌ
+じねでぃーぬ #JNM ジネディーヌ
 じひょん #JNM ジヒョン
 じびき #JNS*9 地引
 じふぁん #JNM ジファン
@@ -11349,6 +11357,7 @@
 すなみ #JNS*7 角南 須波 #JNM 州波
 すなや #JNS*7 砂谷
 すなやま #JNS*9 砂山
+すねいぷ #JNS スネイプ
 すねえもん #JNM*7 強右衛門 #JNM 強右衞門
 すねお #JNM スネオ スネ夫
 すねきち #JNM スネ吉
@@ -11485,7 +11494,7 @@
 せいが #JNM 菁莪 #JNS 青蛾
 せいがい #JNM*7 西崖 #JNM 世凱 西涯 青厓
 せいがん #JNS*7 清巌 #JNM*7 星巌
-せいき #JNS*7 生起 #JNM*10 清輝 #JNM*8 成基 整輝 正煕 靖己 #JNM*7 青起 #JNM 世輝 世錡 星姫 正熈 正熙 清機 精輝 誠喜 静喜 聖基
+せいき #JNS*7 生起 #JNM*10 清輝 #JNM*8 成基 整輝 正煕 靖己 #JNM*7 青起 #JNM 世輝 世錡 星姫 正熈 正熙 清機 精輝 誠喜 静喜 聖基 成樹
 せいきち #JNM*7 成吉 清吉 #JNM 盛吉 誠吉
 せいきゅう #JNM 青丘
 せいきょう #JNM 成恭 聖響
@@ -11962,7 +11971,7 @@
 そうしょく #JNM 曾植
 そうしろう #JNM*7 宗四郎 #JNM 壮四郎 聡史郎 聡四郎
 そうしん #JNM 宗心 曾參
-そうじ #JNM*8 宗治 #JNM*7 宗二 #JNM 宗司 宗次 創士 壮司 荘児 蒼司
+そうじ #JNM*8 宗治 #JNM*7 宗二 #JNM 宗司 宗次 創士 壮司 荘児 蒼司 荘司
 そうじゃ #JNS*7 総社
 そうじゅ #JNM 宗寿 僧儒 僧孺
 そうじゅう #JNM*7 荘十
@@ -13483,6 +13492,7 @@
 ちぇぎょん #JNM チェギョン
 ちぇりん #JNM チェリン
 ちぇるのむいるじん #JNS*9 チェルノムイルジン
+ちぇん #JNS チェン
 ちえ #JNM*9 千枝 智恵 #JNM*8 知恵 智江 #JNM*7 チエ 千栄 千英 千絵 千恵 千江 千惠 知衣 知枝 知重 智惠 #JNM 千衣 千重
 ちえき #JNM*7 智恵紀
 ちえこ #JNM*10 智恵子 #JNM*8 ちえこ ちえ子 チエ子 千恵子 千枝子 知恵子 #JNM*7 チエコ 千映子 千栄子 千英子 千絵子 千江子 千枝古 千重子 千惠子 千榮子 知栄子 知瑛子 知英子 知江子 知枝子 知惠子 智映子 智栄子 智永子 智慧子 智江子 智枝子 智惠子 #JNM 知永子
@@ -14116,6 +14126,7 @@
 つたえ #JNM*9 伝 #JNM*7 つた江 ツタエ
 つたがわ #JNS*7 伝川
 つたこ #JNM*7 つた子 ツタ子 蔦子
+つただ #JNS 蔦田
 つたの #JNM*7 つたの ツタノ
 つたむら #JNS 蔦村
 つたや #JNS*9 蔦谷 #JNS*8 つたや #JNS 蔦屋
@@ -14760,6 +14771,7 @@
 でにす #JNM*9 デニス
 ではーね #JNS*8 デハーネ
 でびっと #JNM*8 デビット
+でびっど #JNM デビッド
 でふぉー #JNS*8 デフォー
 でぶら #JNM*8 デブラ
 でまち #JNS*7 出町
@@ -15929,7 +15941,7 @@
 なおまろ #JNM 直麿
 なおみ #JNM*8 尚美 直愛 直己 奈穂美 #JNM*7 なおみ なお美 ナオミ 菜穂美 尚己 直見 直実 直美 直巳 直躬 奈緒美 奈保美 名保美 #JNM 奈央美
 なおみき #JNM*7 直幹
-なおみち #JNM*10 直道 #JNM*7 尚道
+なおみち #JNM*10 直道 #JNM*7 尚道 #JNM 直通
 なおみつ #JNM*7 尚光 尚充 直光
 なおみね #JNM 高峰
 なおもと #JNM 直元
@@ -16335,6 +16347,7 @@
 ななしま #JNS*7 七島
 ななせ #JNS*7 七瀬 #JNM*7 七瀬 #JNM 菜々瀬
 ななつか #JNS*7 七塚
+ななつき #JNS 七月
 ななはら #JNS 七原
 ななほ #JNM 菜々穂
 ななみ #JNS*8 七海 #JNS*7 奈々見 #JNS 名波 #JNM*8 七海 #JNM*7 七美 奈々実 奈々美 奈那美 #JNM ななみ 菜々美 奈々未
@@ -17856,6 +17869,7 @@
 はるつぐ #JNM 晴継 晴嗣
 はるつな #JNM*7 治綱
 はるつね #JNM 立玄
+はるでーん #JNS ハルデーン
 はると #JNM*7 晴人 #JNM 春渡
 はるとし #JNM*8 春利 #JNM*7 治紀 治利 晴敏 晴利 #JNM 大世
 はるとみ #JNM*7 治宝
@@ -18855,6 +18869,7 @@
 ふぁはど #JNS*8 ファハド
 ふぁるーく #JNM*8 ファルーク
 ふぁるかん #JNS*10 ファルカン
+ふあんかるろす #JNM フアンカルロス
 ふぃおりーな #JNS フィオリーナ
 ふぃっしゃー #JNS*7 フィッシャー
 ふぃっつうぉーたー #JNS*7 フィッツウォーター
@@ -19406,6 +19421,7 @@
 ふろいす #JNS*7 フロイス
 ふろいと #JNS*8 フロイト
 ふろいど #JNS*7 フロイド
+ふろれんてぃーの #JNM フロレンティーノ
 ふわ #JNS*9 不破
 ふわの #JNS*7 不破野
 ふん #JNM*8 フン #JNM 焚 份
@@ -19453,12 +19469,14 @@
 ぶらっどれー #JNS*7 ブラッドレー
 ぶらよびっち #JNS*8 ブラヨビッチ
 ぶられっと #JNS*8 ブラレット
+ぶらんしぇっと #JNS ブランシェット
 ぶらんと #JNM*8 ブラント
 ぶらんどん #JNM*10 ブランドン
 ぶりあり #JNS*8 ブリアリ
 ぶりくす #JNS*9 ブリクス
 ぶりじた #JNS*10 ブリジタ
 ぶりたん #JNS*8 ブリタン
+ぶりは #JNS ブリハ
 ぶりゅね #JNS*8 ブリュネ
 ぶりょく #JNM 武力
 ぶる #JNS*7 ブル
@@ -19659,6 +19677,7 @@
 べと #JNM*10 ベト
 べにこ #JNM*7 紅子
 べにさと #JNS 紅里
+べにてす #JNS ベニテス
 べにや #JNS*7 紅谷 #JNS 紅矢
 べにりつ #JNM 紅律
 べねっと #JNS*8 ベネット
@@ -19684,6 +19703,7 @@
 べんのすけ #JNM 弁之助
 ぺいびん #JNS*8 ペイビン
 ぺいゆ #JNS*9 ペイユ
+ぺいりん #JNS ペイリン
 ぺきち #JNM ぺ吉
 ぺく #JNS ペク
 ぺたこ #JNM ペタ子
@@ -19980,6 +20000,7 @@
 ぼあず #JNM*8 ボアズ
 ぼいやー #JNM*10 ボイヤー
 ぼう #JNS 房 冒 膨
+ぼうい #JNS ボウイ
 ぼうこう #JNM 懋功
 ぼうさわ #JNS*7 坊澤
 ぼうしゃ #JNM*7 茅舎
@@ -20043,6 +20064,7 @@
 ぽーる #JNM*9 ポール
 ぽーわー #JNS*8 ポーワー
 ぽじぇ #JNS ポジェ
+ぽったー #JNS ポッター
 ぽてりあこふ #JNS*7 ポテリアコフ
 ぽと #JNS*7 ポト
 ぽぴんず #JNS*7 ポピンズ
@@ -20059,6 +20081,7 @@
 まーてぃん #JNS*7 マーティン
 まーとん #JNS マートン
 まーどっく #JNS*7 マードック
+まーびん #JNM マービン
 まーらー #JNS*8 マーラー
 まーりー #JNS*8 マーリー
 まあさ #JNM 茉麻
@@ -20305,7 +20328,7 @@
 まさひこ #JNS*7 眞彦 #JNM*10 雅彦 正彦 #JNM*9 昌彦 #JNM*7 匡彦 将彦 真彦 政彦 全彦 #JNM マサヒコ 雅比古 真左彦 誠彦
 まさひさ #JNM*10 正久 #JNM*8 真久 #JNM*7 雅久 昌久 政久
 まさひで #JNM*8 昌秀 #JNM*7 雅英 雅秀 昌英 政英 政秀 正英 #JNM 正秀 聖英
-まさひと #JNM*9 正人 #JNM*8 雅仁 #JNM*7 将仁 政仁
+まさひと #JNM*9 正人 #JNM*8 雅仁 #JNM*7 将仁 政仁 #JNM 方人
 まさひら #JNM*9 正平 #JNM 匡衡 政衡 正啓
 まさひろ #JNM*10 昌弘 #JNM*9 正浩 #JNM*8 雅博 昌浩 正弘 正洋 #JNM*7 雅宏 雅広 雅弘 雅浩 雅裕 雅洋 匡弘 昌宏 昌広 昌博 昌裕 昌洋 真宏 真広 真弘 征洋 政宏 政広 政弘 政浩 政博 政洋 正寛 正広 正博 正裕 正廣 #JNM マサヒロ 将浩 将大 昌廣 真啓 真紘 政恕 正宏 正紘 正大 聖博 方弘 理弘 理裕
 まさふさ #JNM 雅房 匡房 昌房 政房
@@ -20645,7 +20668,7 @@
 まはら #JNS*8 麻原 #JNS 馬原
 まひと #JNM*11 真人
 まひょうめ #JNS 蛾氷女
-まひろ #JNM まひろ 真優
+まひろ #JNM まひろ 真優 真宙
 まひろし #JNM*7 馬宏
 まふね #JNS*8 真船
 まぶち #JNS*8 真渕 #JNS*7 馬淵 馬渕 #JNM 真淵 眞淵 #JNS マブチ 間淵 間渕
@@ -22899,7 +22922,7 @@
 ゆうてき #JNM 有的
 ゆうてつ #JNM 勇哲
 ゆうてんじ #JNS*7 祐天寺
-ゆうと #JNM 優斗 悠人 悠斗 裕杜 勇人
+ゆうと #JNM 優斗 悠人 悠斗 裕杜 勇人 裕翔
 ゆうどう #JNM 游道
 ゆうな #JNM*7 優菜 優奈 祐奈 #JNM ユウナ 有菜
 ゆうの #JNM*7 ゆうの #JNM 優乃
@@ -23656,6 +23679,7 @@
 らびー #JNM*8 ラビー
 らびろわ #JNS*8 ラビロワ
 らびん #JNS*11 ラビン
+らふぁ #JNM ラファ
 らふきん #JNM*7 ラフキン
 らふさんじゃに #JNS*9 ラフサンジャニ
 らべる #JNS*8 ラベル
@@ -23783,6 +23807,7 @@
 りちゃーど #JNM*10 リチャード
 りっか #JNM*7 六花 #JNM 葎花
 りっく #JNM*8 リック
+りっくまん #JNS リックマン
 りっこう #JNM 葎光
 りっし #JNM*7 律師
 りっせい #JNM 立誠
@@ -23974,7 +23999,7 @@
 りょうへい #JNM*10 良平 #JNM*7 亮平 量平 #JNM 了平 梁平 涼平 諒平 遼平 燎平 粱平 龍平
 りょうほ #JNM 良甫
 りょうほう #JNM*7 了法 蓼峰
-りょうま #JNM*11 竜馬 #JNM リョウマ 龍馬 龍磨 僚馬
+りょうま #JNM*11 竜馬 #JNM リョウマ 龍馬 龍磨 僚馬 涼真
 りょうや #JNM*7 良弥 #JNM 流哉
 りょうゆう #JNM 了祐 陵侑
 りょうよう #JNM*7 涼葉
@@ -24148,6 +24173,7 @@
 れのん #JNS レノン
 れび #JNS*7 レビ
 れびー #JNS*9 レビー
+れべこ #JNM レベコ
 れべじ #JNS*7 レベジ
 れべんざーる #JNS*8 レベンザール
 れみ #JNM*8 礼美 麗美 #JNM*7 レミ #JNM 莉美
@@ -24336,6 +24362,7 @@
 わかな #JNS*9 若菜 #JNM*7 若菜 若奈 稚菜 和佳奈 #JNM 和佳菜
 わかね #JNM*7 和華子
 わかの #JNS*7 若野 #JNM*7 わかの #JNM 和歌乃
+わかのはな #JNS 若乃花
 わかはら #JNS 若原
 わかば #JNS*7 若葉 #JNM*7 若葉
 わかばやし #JNS*10 若林
