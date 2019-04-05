@@ -1,4 +1,4 @@
-# CC0jinmei.t: CC0 / Public domain dictionary for Canna.
+# jinmei.t: CC0 / Public domain dictionary for Canna.
 # Licence: CC0 / Public domain
 #
 あーのるど #JNS アーノルド
