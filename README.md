@@ -3,10 +3,9 @@
 This project aims to maintain Dictionaries for CannaIM.
 
 # Licence
-## Files in CC0_CannaDic/*
-CC0 / Public domain
+## Files in pubdic/*
+See pubdic/README.pubdic+
 
-## Files in pubdic/*, including iroha.t
 pubdic+パッケージの著作権とその利用について
 
 pubdic+プロジェクト
@@ -56,7 +55,7 @@ If there is any difference between the Japanese copyright notice and
 the English one, the Japanese copyright notice takes precedence over
 the English one.
 
-## chimei.t
+## chimei/chimei.t
 License: CC0 / Public domain
 
 Part of Data from geonlp japan city 20140310
@@ -73,42 +72,27 @@ Date: 20140829
 Licence: public domain
 http://www.post.japanpost.jp/zipcode/dl/readme.html
 
+## iroha/iroha.t
+iroha.t is based on Pubdic+ Version 1.0 fix-01 (modified for Canna)
+Licence: See pubdic/README.pubdic+
 
-## jinmei.t
-This dictionary originally generated from NAIST Japanese Dictionary
-http://sourceforge.jp/projects/naist-jdic
+Part of data from Hiroshi Manabe's japanese_verb_adj_list
+https://github.com/hiroshi-manabe/japanese_verb_adj_list
+Licence: CC0
 
-Copyright (c) 2008, Nara Institute of Science and Technology, Japan.
+Part of data collected from Susumu Yata's Japanese Web corpus 2010.
+http://s-yata.jp/corpus/nwc2010/ngrams/
 
-All rights reserved.
+## jinmei/jinmei.t
+Licence: CC0 / Public domain
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
+## koyuu/koyuu.t
+Licence: CC0 / Public domain
 
-Redistributions of source code must retain the above copyright notice,
-this list of conditions and the following disclaimer.
-Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-Neither the name of the Nara Institute of Science and Technology
-(NAIST) nor the names of its contributors may be used to endorse or
-promote products derived from this software without specific prior
-written permission.
+## Files in CC0_CannaDic/*
+CC0 / Public domain
 
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
-CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
-EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
-PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Other files from Canna 3.7
+## Other files from Canna 3.7 (canna/*)
  Copyright 1997 NEC Corporation, Tokyo, Japan.
 
  Permission to use, copy, modify, distribute and sell this software
