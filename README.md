@@ -3,7 +3,7 @@
 This project aims to maintain Dictionaries for CannaIM.
 
 # Licence
-## Files in pubdic/*
+## Files in pubdic/
 See pubdic/README.pubdic+
 
 pubdic+パッケージの著作権とその利用について
@@ -55,7 +55,7 @@ If there is any difference between the Japanese copyright notice and
 the English one, the Japanese copyright notice takes precedence over
 the English one.
 
-## chimei/chimei.t
+## Files in chimei/
 License: CC0 / Public domain
 
 Part of Data from geonlp japan city 20140310
@@ -72,7 +72,7 @@ Date: 20140829
 Licence: public domain
 http://www.post.japanpost.jp/zipcode/dl/readme.html
 
-## iroha/iroha.t
+## Files in iroha/
 iroha.t is based on Pubdic+ Version 1.0 fix-01 (modified for Canna)
 Licence: See pubdic/README.pubdic+
 
@@ -89,7 +89,7 @@ Licence: CC0 / Public domain
 ## koyuu/koyuu.t
 Licence: CC0 / Public domain
 
-## Files in CC0_CannaDic/*
+## Files in CC0_CannaDic/
 CC0 / Public domain
 
 ## Other files from Canna 3.7 (canna/*)
